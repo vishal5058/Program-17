@@ -14,7 +14,7 @@ BEGIN
         Gender,
         DepartmentID
     )
-    VALUE (
+    VALUES (
         StudentID,
         StudentName,
         DOB,
