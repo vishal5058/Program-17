@@ -21,7 +21,5 @@ BEGIN
         Gender,
         DepartmentID
     );
-
-    COMMIT;
 END INSERT_STUDENT;
 /
